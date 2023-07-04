@@ -3,13 +3,6 @@
 
 Welcome to my GitHub profile! I'm a 3rd-year BCA student from Banasthali Vidyapith. I'm passionate about coding and building web applications. Currently, I'm focusing on learning the MERN stack and expanding my knowledge in full-stack development.
 
-## 🌱 About Me
-
-- 🔭 I'm currently working on personal web development projects.
-- 🌟 I'm proficient in C, C++, HTML5, CSS3, JavaScript, React, COBOL, VB.NET, and Bootstrap.
-- 💡 I'm constantly learning and exploring new technologies, with a particular interest in the MERN (MongoDB, Express.js, React, Node.js) stack.
-- 🎓 I'm pursuing a BCA degree from Banasthali Vidyapith, where I'm gaining a solid foundation in computer science and programming.
-
 ## 💼 Skills
 
 - **Languages:** C, C++, HTML5, CSS3, JavaScript, COBOL, VB.NET
