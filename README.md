@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a 3rd-year BCA student from Banasthali Vidyapi
 
 ## 📫 Contact Me
 
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/pragatijain98/).
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/pragati3003).
 
 ## 🤝 Let's Connect
 
