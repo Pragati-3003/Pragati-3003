@@ -6,8 +6,8 @@ I'm a 3rd-year BCA student from Banasthali Vidyapith. I'm passionate about codin
 ## 💼 Skills
 
 - **Languages:** C, C++, HTML5, CSS3, JavaScript, COBOL, VB.NET
-- **Frameworks and Libraries:** React, Bootstrap
-- **Databases:** MySQL 
+- **Frameworks and Libraries:** React, Bootstrap,Material UI,Nodejs,ExpressJs.
+- **Databases:** MySQL ,MongoDB
 - **Tools and Technologies:** Git
 
 
