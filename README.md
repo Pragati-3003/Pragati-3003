@@ -10,5 +10,5 @@ I'm a 3rd-year BCA student from Banasthali Vidyapith. I'm passionate about codin
 - **Databases:** MySQL ,MongoDB
 - **Tools and Technologies:** Git
 
-
+[![Pragati-3003's GitHub | Stats](https://stats.quine.sh/Pragati-3003/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Pragati-3003)
 
