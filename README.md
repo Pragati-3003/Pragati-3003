@@ -4,6 +4,10 @@
 
 ###
 
+<h1 align="center"> Hello, I'm Pragati Jain! 👋</h1>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/pragati3003">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo"  />
@@ -14,8 +18,6 @@
   <a href="https://pragatijain.vercel.app/">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo"  />
 </div>
 
 ###
@@ -26,19 +28,14 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
-
 <p align="left">
-  I'm Pragati Jain, a 3rd-year BCA student from Banasthali Vidyapith.<br><br>
-  - 🔭 I’m currently working on building web applications.<br>
-  - 📚 I'm currently learning the MERN stack to expand my full-stack development skills.<br>
-  - ⚡ In my free time, I love coding and exploring new technologies.
+  I'm Pragati Jain, a passionate and enthusiastic 3rd-year BCA student from Banasthali Vidyapith. I am dedicated to mastering full-stack development, focusing primarily on the MERN stack. <br><br>
+  - 🌟 I’m currently working on building and deploying web applications.<br>
+  - 📚 Continuously expanding my knowledge in the MERN stack and honing my skills in full-stack development.<br>
+  - 💻 Learning and practicing Data Structures and Algorithms (DSA) to enhance my problem-solving abilities.<br>
+  - 🎯 In my free time, I love exploring new technologies, coding, and contributing to open-source projects.<br>
 </p>
 
 ###
@@ -57,10 +54,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cobol/cobol-original.svg" height="40" alt="COBOL logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vbnet/vbnet-original.svg" height="40" alt="VB.NET logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React logo"  />
   <img width="12" />
