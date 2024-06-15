@@ -72,6 +72,15 @@
 
 ###
 
+
+
+<h3 align="left">💡 LeetCode Stats</h3>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Pragati3003?theme=dark&ext=heatmap" alt="LeetCode Stats" />
+  
+###
+</div>
 <h3 align="left">📊 GitHub Stats</h3>
 
 <div align="center">
@@ -93,6 +102,8 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pragati-3003&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
+
+
 
 ###
 
