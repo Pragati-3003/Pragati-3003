@@ -72,8 +72,27 @@
 
 ###
 
+<h3 align="left">📊 GitHub Stats</h3>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pragati-3003&show_icons=true&theme=radical" alt="Pragati's GitHub stats" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pragati-3003&theme=radical&hide_border=true" height="220" alt="streak graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati-3003&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+###
+
+<h3 align="left">🏆 GitHub Trophies</h3>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pragati-3003&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
 
 ###
 
