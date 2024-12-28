@@ -74,10 +74,10 @@
 
 
 
-<h3 align="left">💡 LeetCode Stats</h3>
+<!-- <h3 align="left">💡 LeetCode Stats</h3> -->
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Pragati3003?theme=dark&ext=heatmap" alt="LeetCode Stats" />
+<!--   <img src="https://leetcard.jacoblin.cool/Pragati3003?theme=dark&ext=heatmap" alt="LeetCode Stats" /> -->
   
 ###
 </div>
