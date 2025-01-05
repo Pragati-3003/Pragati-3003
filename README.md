@@ -12,12 +12,12 @@
   <a href="https://www.linkedin.com/in/pragati3003">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
-  <a href="https://leetcode.com/u/Pragati3003/">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LeetCode logo" />
-  </a>
-  <a href="https://pragatijain.vercel.app/">
+<!--   <a href="https://leetcode.com/u/Pragati3003/">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LeetCode logo" /> -->
+<!--   </a> -->
+<!--   <a href="https://pragatijain.vercel.app/">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio logo" />
-  </a>
+  </a> -->
 </div>
 
 ###
